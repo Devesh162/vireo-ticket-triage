@@ -1,0 +1,111 @@
+sample,idx,ticket_id,bot_tag,pred_topic,pred_team,topic_correct,routing_correct
+v1,0,TK-251101,Billing & Payments,Delivery & Shipping,Logistics,True,True
+v1,1,TK-241131,Delivery & Shipping,Delivery & Shipping,Logistics,True,True
+v1,2,TK-253982,App & Firmware,Charging & Battery,Email Frontline,True,True
+v1,3,TK-254312,Connectivity,App & Firmware,Chat Frontline,True,True
+v1,4,TK-252315,Connectivity,App & Firmware,Voice Frontline,True,True
+v1,5,TK-241332,Delivery & Shipping,Delivery & Shipping,Logistics,True,True
+v1,6,TK-253310,Billing & Payments,Order Change / Cancel,Billing,False,False
+v1,7,TK-247916,Other,Billing & Payments,Billing,True,True
+v1,8,TK-249131,Delivery & Shipping,Delivery & Shipping,Logistics,True,True
+v1,9,TK-254168,Other,App & Firmware,Chat Frontline,False,True
+v1,10,TK-244006,Billing & Payments,Delivery & Shipping,Logistics,True,True
+v1,11,TK-243813,Other,Charging & Battery,Chat Frontline,True,True
+v1,12,TK-247218,Connectivity,Connectivity,Chat Frontline,True,True
+v1,13,TK-250841,Other,Warranty & Repair,Escalations & Warranty,True,True
+v1,14,TK-248980,Charging & Battery,Charging & Battery,Chat Frontline,True,True
+v1,15,TK-250014,Other,Billing & Payments,Billing,True,True
+v1,16,TK-247700,Billing & Payments,Delivery & Shipping,Logistics,True,True
+v1,17,TK-253824,Connectivity,Connectivity,Chat Frontline,True,True
+v1,18,TK-244144,Delivery & Shipping,Delivery & Shipping,Logistics,True,True
+v1,19,TK-246226,Connectivity,Audio Quality,Email Frontline,True,True
+v1,20,TK-253808,Product Enquiry,Product Enquiry,Email Frontline,True,True
+v1,21,TK-242225,Other,App & Firmware,Email Frontline,False,True
+v1,22,TK-252053,Charging & Battery,Charging & Battery,Chat Frontline,True,True
+v1,23,TK-240902,Billing & Payments,Delivery & Shipping,Logistics,True,True
+v1,24,TK-247819,Billing & Payments,Delivery & Shipping,Logistics,True,True
+v1,25,TK-251417,Other,Order Change / Cancel,Email Frontline,True,True
+v1,26,TK-244033,Audio Quality,Audio Quality,Voice Frontline,True,True
+v1,27,TK-241697,Delivery & Shipping,Delivery & Shipping,Logistics,True,True
+v1,28,TK-245632,Delivery & Shipping,Delivery & Shipping,Logistics,True,True
+v1,29,TK-247226,Account & Login,Account & Login,Chat Frontline,True,True
+v1,30,TK-249060,Charging & Battery,Charging & Battery,Chat Frontline,True,True
+v1,31,TK-240652,Connectivity,Connectivity,Email Frontline,True,True
+v1,32,TK-243652,Billing & Payments,Delivery & Shipping,Logistics,True,True
+v1,33,TK-250532,Delivery & Shipping,Delivery & Shipping,Logistics,True,True
+v1,34,TK-240492,Billing & Payments,Billing & Payments,Billing,True,True
+v1,35,TK-250237,Billing & Payments,Billing & Payments,Billing,True,True
+v1,36,TK-250075,Billing & Payments,Billing & Payments,Billing,True,True
+v1,37,TK-250288,Billing & Payments,Delivery & Shipping,Logistics,True,True
+v1,38,TK-249258,Charging & Battery,Charging & Battery,Voice Frontline,True,True
+v1,39,TK-252870,Billing & Payments,Charging & Battery,Billing,False,True
+v1,40,TK-253622,Audio Quality,Unclear,Chat Frontline,False,True
+v1,41,TK-250732,Product Enquiry,Product Enquiry,Chat Frontline,True,True
+v1,42,TK-248680,Returns & Refunds,Returns & Refunds,Returns Desk,True,True
+v1,43,TK-246489,Returns & Refunds,Returns & Refunds,Returns Desk,True,True
+v1,44,TK-252487,Charging & Battery,Charging & Battery,Email Frontline,True,True
+v1,45,TK-249071,Connectivity,Audio Quality,Voice Frontline,False,True
+v1,46,TK-249506,Charging & Battery,App & Firmware,Chat Frontline,False,True
+v1,47,TK-251297,Account & Login,Account & Login,Chat Frontline,True,True
+v1,48,TK-252522,Product Enquiry,Product Enquiry,Voice Frontline,True,True
+v1,49,TK-240395,Billing & Payments,Delivery & Shipping,Logistics,True,True
+v1,50,TK-250483,Delivery & Shipping,Delivery & Shipping,Logistics,True,True
+v1,51,TK-251268,Delivery & Shipping,Delivery & Shipping,Logistics,True,True
+v1,52,TK-241077,Billing & Payments,Billing & Payments,Billing,True,True
+v1,53,TK-246806,Audio Quality,Audio Quality,Email Frontline,True,True
+v1,54,TK-251594,Connectivity,Warranty & Repair,Escalations & Warranty,False,False
+v1,55,TK-245286,Connectivity,Connectivity,Chat Frontline,True,True
+v1,56,TK-252014,Other,Audio Quality,Chat Frontline,True,True
+v1,57,TK-250564,Delivery & Shipping,Delivery & Shipping,Logistics,True,True
+v1,58,TK-248061,Audio Quality,Audio Quality,Voice Frontline,True,True
+v1,59,TK-248053,Delivery & Shipping,Delivery & Shipping,Logistics,True,True
+v2,0,TK-247808,Other,Audio Quality,Email Frontline,True,True
+v2,1,TK-241015,Connectivity,Connectivity,Chat Frontline,True,True
+v2,2,TK-244800,Product Enquiry,Product Enquiry,Chat Frontline,True,True
+v2,3,TK-243332,Delivery & Shipping,Returns & Refunds,Returns Desk,True,True
+v2,4,TK-251083,Billing & Payments,Delivery & Shipping,Logistics,True,True
+v2,5,TK-253164,Other,Delivery & Shipping,Logistics,True,True
+v2,6,TK-243103,Other,Order Change / Cancel,Email Frontline,True,True
+v2,7,TK-243828,Account & Login,Account & Login,Chat Frontline,True,True
+v2,8,TK-249845,Other,Product Enquiry,Email Frontline,True,True
+v2,9,TK-242483,Account & Login,Account & Login,Email Frontline,True,True
+v2,10,TK-240432,Audio Quality,Audio Quality,Email Frontline,True,True
+v2,11,TK-242882,Product Enquiry,Product Enquiry,Chat Frontline,True,True
+v2,12,TK-252992,Returns & Refunds,Returns & Refunds,Returns Desk,True,True
+v2,13,TK-244277,Billing & Payments,Billing & Payments,Billing,True,True
+v2,14,TK-254288,Delivery & Shipping,Delivery & Shipping,Logistics,True,True
+v2,15,TK-243607,App & Firmware,App & Firmware,Email Frontline,True,True
+v2,16,TK-247551,Product Enquiry,Product Enquiry,Chat Frontline,True,True
+v2,17,TK-253894,Billing & Payments,Billing & Payments,Billing,True,True
+v2,18,TK-249390,Billing & Payments,Billing & Payments,Billing,True,True
+v2,19,TK-251375,Billing & Payments,Billing & Payments,Billing,True,True
+v2,20,TK-246474,Billing & Payments,Delivery & Shipping,Logistics,True,True
+v2,21,TK-247211,Charging & Battery,Charging & Battery,Email Frontline,True,True
+v2,22,TK-253780,Delivery & Shipping,Delivery & Shipping,Logistics,True,True
+v2,23,TK-251783,Billing & Payments,Billing & Payments,Billing,True,True
+v2,24,TK-248655,Billing & Payments,Billing & Payments,Billing,True,True
+v2,25,TK-247351,Billing & Payments,Billing & Payments,Billing,True,True
+v2,26,TK-252505,Delivery & Shipping,Delivery & Shipping,Logistics,True,True
+v2,27,TK-249282,Delivery & Shipping,Delivery & Shipping,Logistics,True,True
+v2,28,TK-253182,Warranty & Repair,Audio Quality,Escalations & Warranty,True,True
+v2,29,TK-249254,Connectivity,Unclear,Chat Frontline,False,True
+v2,30,TK-253925,Billing & Payments,Billing & Payments,Billing,True,True
+v2,31,TK-246853,Other,Billing & Payments,Billing,True,True
+v2,32,TK-249709,Charging & Battery,Charging & Battery,Chat Frontline,True,True
+v2,33,TK-252524,Connectivity,Connectivity,Voice Frontline,True,True
+v2,34,TK-244584,Delivery & Shipping,Delivery & Shipping,Logistics,True,True
+v2,35,TK-241862,Charging & Battery,Charging & Battery,Email Frontline,True,True
+v2,36,TK-253255,Billing & Payments,Billing & Payments,Billing,True,True
+v2,37,TK-246103,Other,Order Change / Cancel,Email Frontline,True,True
+v2,38,TK-243261,Delivery & Shipping,Returns & Refunds,Returns Desk,False,False
+v2,39,TK-254641,Audio Quality,Audio Quality,Voice Frontline,True,True
+v2,40,TK-241900,Account & Login,Account & Login,Chat Frontline,True,True
+v2,41,TK-250214,Other,Unclear,Chat Frontline,False,True
+v2,42,TK-241455,Billing & Payments,Billing & Payments,Billing,True,True
+v2,43,TK-246349,Delivery & Shipping,Unclear,Logistics,False,True
+v2,44,TK-242797,Other,Billing & Payments,Billing,True,True
+v2,45,TK-252478,Delivery & Shipping,Delivery & Shipping,Logistics,True,True
+v2,46,TK-248241,App & Firmware,Account & Login,Chat Frontline,True,True
+v2,47,TK-249894,App & Firmware,Charging & Battery,Email Frontline,True,True
+v2,48,TK-241813,App & Firmware,App & Firmware,Voice Frontline,True,True
+v2,49,TK-251884,Billing & Payments,Delivery & Shipping,Logistics,True,True

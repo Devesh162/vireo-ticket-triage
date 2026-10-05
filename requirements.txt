@@ -1,0 +1,4 @@
+pandas
+matplotlib
+tabulate
+anthropic   # only needed for --classifier llm

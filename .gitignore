@@ -1,0 +1,5 @@
+data/
+out/results.csv
+out/llm_cache.jsonl
+__pycache__/
+.venv/
